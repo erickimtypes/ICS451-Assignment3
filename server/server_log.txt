@@ -1,0 +1,3 @@
+Server started. Waiting for connections on port 25000...
+Client connected: /127.0.0.1
+File sent successfully. Closing connection.
